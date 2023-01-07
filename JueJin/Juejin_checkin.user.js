@@ -8,7 +8,6 @@
 // @downloadURL  https://github.com/sollde/UserScripts/raw/main/JueJin/Juejin_checkin.user.js
 // @match        http://*/*
 // @match        https://*/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_xmlhttpRequest
 // @grant        GM_log
 // @run-at       document-end
