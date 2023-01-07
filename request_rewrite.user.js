@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         请求重写
 // @namespace    http://tampermonkey.net/
-// @version      0.1.0
+// @version      0.1.1
 // @description  fetch和xhr请求重写
 // @author       You
 // @updateURL    https://github.com/sollde/UserScripts/raw/main/request_rewrite.user.js
