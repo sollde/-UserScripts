@@ -4,8 +4,8 @@
 // @version      0.1.1
 // @description  try to take over the world!
 // @author       You
-// @updateURL    https://github.com/sollde/UserScripts/raw/main/JueJin/Juejin_checkin.js
-// @downloadURL  https://github.com/sollde/UserScripts/raw/main/JueJin/Juejin_checkin.js
+// @updateURL    https://github.com/sollde/UserScripts/raw/main/JueJin/Juejin_checkin.user.js
+// @downloadURL  https://github.com/sollde/UserScripts/raw/main/JueJin/Juejin_checkin.user.js
 // @match        http://*/*
 // @match        https://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
