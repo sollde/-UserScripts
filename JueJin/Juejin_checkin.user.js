@@ -11,6 +11,8 @@
 // @match        https://*/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_log
+// @grant        GM_getValue
+// @grant        GM_setValue
 // @run-at       document-end
 // @connect      juejin.cn
 // ==/UserScript==
