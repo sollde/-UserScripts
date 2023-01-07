@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         请求重写
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.0
 // @description  fetch和xhr请求重写
 // @author       You
+// @updateURL    https://github.com/sollde/UserScripts/raw/main/request_rewrite.user.js
+// @downloadURL  https://github.com/sollde/UserScripts/raw/main/request_rewrite.user.js
 // @match        https://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        unsafeWindow
